@@ -1,0 +1,4 @@
+ln -s /bigdata/stajichlab/shared/projects/Thraustochytrid/Annotation/genomes/Mn35/MAKER/version1/Mn35.all.maker.proteins.functional.fasta Mn35.func.fasta
+ln -s /bigdata/stajichlab/shared/projects/Thraustochytrid/Annotation/genomes/Mn4/MAKER/version1/Mn4.all.maker.proteins.functional.fasta Mn4.func.fasta
+ln -s /bigdata/stajichlab/shared/projects/Thraustochytrid/Annotation/genomes/SW8/MAKER/version1/SW8.all.maker.proteins.functional.fasta SW8.func.fasta
+ln -s /bigdata/stajichlab/shared/projects/Thraustochytrid/Annotation/genomes/Sed1/MAKER/version1/Sed1.all.maker.proteins.functional.fasta Sed1.func.fasta
